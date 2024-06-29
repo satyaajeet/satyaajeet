@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @satyaajeet.
-- 👀 I’m interested in solving problems and understand businesses.
-- 🌱 I’m currently learning Python, Talend and many other things.
-- 💞️ I’m looking to collaborate on Data Sciecne projects with some actual goal realization.
+- 👀 I like solving problems and understanding businesses.
+- 🌱 I am well-versed in SQL and data analysis
+- 🌱 I’m working as a Data Scientist leveraging Machine learning modeling using Python.
+- 💞️ I’m open to discussing and learning Machine learning and data science and collaborating.
 - 📫 How to reach me Mail me at satyaajeet@gmail.com
 
 <!---
